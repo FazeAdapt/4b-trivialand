@@ -2,11 +2,11 @@
 /* CSS DOCUMENT*/
 body {
 	/* makes the background a gradient, 
-	all the font is set
-	the color of all the text is white*/
-	background-image: url("images/background.jpg");	
-	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	color: white;
+		all the font is set
+		the color of all the text is white*/
+		background-image: url("images/background.jpg");	
+		font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+		color: white;
 }
 
 #title {
@@ -14,8 +14,8 @@ body {
 	the title size is set at 40 px
 	the title is aligned at the center
 	*/
-	font-size:40px;
-	text-align: center;
+		font-size:40px;
+		text-align: center;
 	
 }
 
@@ -28,9 +28,9 @@ progress {
 	/*
 	the wrapper has a width of 960 px 
 	*/
-	padding: 5px;
-	width: 960px;
-	margin: 20px auto;
+		padding: 5px;
+		width: 960px;
+		margin: 20px auto;
 }
 
 #leftColumn {
@@ -38,12 +38,12 @@ progress {
 	Sets the color, height, width, border curves, and text color
 	It is the score 
 	*/
-	background-color: white;
-	height: 500px;
-	width: 400px;
-	border-radius: 12px;
-	color: black;
-	float: left;
+		background-color: white;
+		height: 500px;
+		width: 400px;
+		border-radius: 12px;
+		color: black;
+		float: left;
 }
 
 
